@@ -17,3 +17,4 @@ class GroqLLM:
 
         except Exception as e:
             raise ValueError(f"Error Occurred with Exception : {e}")
+        return llm
