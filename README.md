@@ -1,4 +1,4 @@
-# End-to-End-Langgraph-AI-Project
+# Basic Chatbot 
 
 ## STEPS:
 
@@ -25,6 +25,7 @@ pip install -r requirements.txt
 ## STEPS 04 - Run the Streamlit App
 
 streamlit run app.py
+Also, requires GROQ API key for demo
 
 ------------------------------------------------------------------------------
 
