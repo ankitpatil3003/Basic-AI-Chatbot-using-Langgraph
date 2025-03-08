@@ -1,4 +1,4 @@
-# Basic Chatbot 
+# Basic-AI-Chatbot-using-Langgraph
 
 ## STEPS:
 
