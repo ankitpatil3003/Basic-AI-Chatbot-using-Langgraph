@@ -21,4 +21,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push --force https://ankitpatil3003:$HF_TOKEN@//huggingface.co/spaces/ankitpatil3003/Basic-AI-Chatbot-using-Langgraph main
+        run: git push --force https://ankitpatil3003:$HF_TOKEN@huggingface.co/spaces/ankitpatil3003/Basic-AI-Chatbot-using-Langgraph main
